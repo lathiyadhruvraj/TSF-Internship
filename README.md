@@ -1,2 +1,2 @@
 # TSF-Internship
-This contains task provided by The Sparks Foundation during Internship.
+This repo has Data Science tasks provided by The Sparks Foundation during Internship.
